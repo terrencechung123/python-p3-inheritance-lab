@@ -2,7 +2,7 @@
 
 from student import Student
 from user import User
-        
+
 class TestStudent:
     '''Class "Student" in student.py'''
 
